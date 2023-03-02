@@ -1,11 +1,11 @@
 # 功守道 👋
 
- - 控制(定时apscheduler、监视） + crawler + server(任务分发、数据检测)
+ - 控制(定时apscheduler、监视） + 自动化框架 + server(任务分发、数据检测)
  - guard(shell、环境检测) + server(行为分析、用户基本信息分析)
  
  crawler
  - 代码分析工具：frida、ida、jadx
- - 框架：BeautifulSoup(HTML解析库)、lxml(HTML解析库) 、 Scrapy(网站爬取库)、jsoup
+ - 自动化框架：BeautifulSoup(HTML解析库)、lxml(HTML解析库) 、 Scrapy(网站爬取库)、jsoup
  
  
  ## 编解码
