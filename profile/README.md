@@ -3,7 +3,7 @@
  - 功: 控制(定时apscheduler、监视） + 自动化框架 + server(任务分发、数据检测、时序网页)
    - ip池、mac池、地理位置池等基础信息
    - 代码分析工具：frida、ida、jadx
-   - 自动化框架：ui数解析(BeautifulSoup、lxml 、jsoup)、 Scrapy、android hook
+   - 自动化框架：ui树解析(BeautifulSoup、lxml 、jsoup)、 Scrapy、android hook
    - server: sqldb + influxdb + grafana
  - 守: guard(shell、环境检测) + server(行为分析、用户基本信息分析)
 
